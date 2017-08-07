@@ -5,12 +5,14 @@
 
       {% if item[1] contains '://' %}
       {% assign url = item[1] %}
+      {% assign target = '_blank' %}
       {% else %}
       {% assign url = item[1] | relative_url %}
+      {% assign target = '_self' %}
       {% endif %}
 
       <li class="item  item--nav{% if item[1] == page.url %}  item--current{% endif %}">
-        <a href="{{ url }}">{{ item[0] }}</a>
+        <a href="{{ url }}" target="{{ target }}">{{ item[0] }}</a>
       </li>
     {% endfor %}
   </ul>
