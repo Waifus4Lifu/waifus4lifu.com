@@ -5,7 +5,7 @@ feature_text: |
 feature_image: "assets/shirt_cropped.jpg"
 ---
 
-Some bullshit text about the clan should go here. I don't know what to write, so someone else should write some copy and send it to me.
+Waifus_4_Lifu was created in 2017 in Dallas Texas in preparation for QuakeCon 2017. It is comprised of a group of friends who spend their free time playing games with each other. Its members include, parents, students, makers, teachers, and many others from various walks of life. Welcome to our site and Praise The booty!
 
 ## Who's Live
 
