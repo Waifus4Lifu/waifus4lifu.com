@@ -6,6 +6,7 @@ $accentColour: #05bf85;
 
 // Text colours
 $headingColour: #333333;
+// $headingColour: #FFFFFF;
 $bodyColour: #555555;
 $linkColour: #05bf85;
 $hoverColour: #008000;
@@ -37,3 +38,7 @@ $monospacetype: (
 
 // Font import, if you're using a non-standard web font
 @import url('https://fonts.googleapis.com/css?family=Merriweather:400,700');
+
+#clock, #until-quakecon-2017 {
+    color: #FFF;
+}
