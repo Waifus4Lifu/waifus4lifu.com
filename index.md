@@ -11,8 +11,8 @@ Some bullshit text about the clan should go here. I don't know what to write, so
 
 TODO: Put something from Twitch here to show who is currently live.
 
-<script src="{{ site.url }}/assets/scripts/jquery-1.9.1.min.js"></script>
-<script src="{{ site.url }}/assets/scripts/moment.min.js"></script>
-<script src="{{ site.url }}/assets/scripts/moment-timezone-with-data.min.js"></script>
-<script src="{{ site.url }}/assets/scripts/jquery.countdown.min.js"></script>
-<script src="{{ site.url }}/assets/scripts/countdown.js"></script>
+<script src="{{ site.baseurl }}/assets/scripts/jquery-1.9.1.min.js"></script>
+<script src="{{ site.baseurl }}/assets/scripts/moment.min.js"></script>
+<script src="{{ site.baseurl }}/assets/scripts/moment-timezone-with-data.min.js"></script>
+<script src="{{ site.baseurl }}/assets/scripts/jquery.countdown.min.js"></script>
+<script src="{{ site.baseurl }}/assets/scripts/countdown.js"></script>
